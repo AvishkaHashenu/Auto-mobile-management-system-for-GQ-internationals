@@ -2,7 +2,7 @@
 
 #### Brief Description of Project - 
 
-This project is based on an automobile management system that is going to develop using the client's requirements. GQ Internationals has mainly B2B sales that sells automobiles parts to their clients through social media and other agents.  As the client currently using a manual-based system as developers we decided to come up with an automated system that is capable of the current situation. By automating the system, it is easier to move more forward with the other companies and achieve the goals very accurately.
+This project is a web application for GQ-Internationals. Previously, the method was followed by a manual processing system that relied on paperwork and ledger records. The created computerized system makes it easier for users to manage and conduct all the company's activities efficiently. To make the system more productive, it has been separated into eight primary roles to execute a comprehensive system: customer management, payment management, order management, employee management, supplier management, client relationship management, expenses management, and stock management. All database records are kept in a highly secure manner. So that human mistakes can be prevented by utilizing created systems in a variety of ways, such as calculating salaries, totaling bills, and other sensitive data. Because this system is a web-based application, users may access it from anywhere at any time over the internet. In order to deliver an efficient product, the system was constructed utilizing the MongoDB database, the Express framework, React Js, and Node Js.
 
 #### Technologies used - MERN STACK
 
